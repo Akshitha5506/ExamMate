@@ -20,6 +20,13 @@ It runs on Raspberry Pi and helps students learn using voice interaction.
 - Modular architecture for easy expansion
 - Offline operation (No Internet Required)
 
+## Demo
+
+Below is the actual project setup of ExamMate:
+
+![ExamMate Project Setup](demo/project_setup.jpg)
+
+
 ## Applications
 - TNPSC exam preparation
 - Rural education support
@@ -29,3 +36,4 @@ It runs on Raspberry Pi and helps students learn using voice interaction.
 - Multilingual support
 - Difficulty-level based questions
 - Mobile app integration
+
