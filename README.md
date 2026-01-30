@@ -1,2 +1,31 @@
-# ExamMate
-This is a Voice Guided Learning System for Visually challenged aspirants those who are preparing for TNPSC exams especially using RaspberryPi where the aspirants can learn and also test their knowledge there using quiz options.
+# ExamMate 🎓🎤
+
+ExamMate is an offline voice-enabled exam preparation system designed for competitive exams like TNPSC.  
+It runs on Raspberry Pi and helps students learn using voice interaction.
+
+## Features
+- Offline Speech-to-Text (STT)
+- Offline Text-to-Speech (TTS)
+- Voice-based question answering
+- Subject-wise question bank
+- Beginner-friendly and low-cost system
+
+## Hardware Used
+- Raspberry Pi
+- USB Microphone
+- Speaker / Headphones
+
+## Software Overview
+- Python-based implementation
+- Modular architecture for easy expansion
+- Offline operation (No Internet Required)
+
+## Applications
+- TNPSC exam preparation
+- Rural education support
+- Smart learning systems
+
+## Future Enhancements
+- Multilingual support
+- Difficulty-level based questions
+- Mobile app integration
